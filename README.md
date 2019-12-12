@@ -1,3 +1,3 @@
 # BOXREC
 
-Code and data will be published once our work gets published.
+Code and data will be provided once our work gets published.
