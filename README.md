@@ -1,5 +1,5 @@
 # [BOXREC: Recommending a Box of Preferred Outfits in Online Shopping](https://dl.acm.org/doi/10.1145/3408890)
-Click on the [demo website link](http://debopriyo.epizy.com/BOXREC/choose_occasion.php) used for collecting user preferences.
+Check out the [demo website link](http://debopriyo.epizy.com/BOXREC/choose_occasion.php) used for collecting user preferences.
 
 Please download [images](https://drive.google.com/drive/folders/1HwdeMEwUXE5STWIoPePcuy5w5L_YJo-a?usp=sharing) from the shared Google Drive directory.
 We will upload the metadata soon.
