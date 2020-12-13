@@ -1,4 +1,4 @@
-# [BOXREC](https://dl.acm.org/doi/10.1145/3408890)
+# [BOXREC: Recommending a Box of Preferred Outfits in Online Shopping](https://dl.acm.org/doi/10.1145/3408890)
 
 
 Please download [images](https://drive.google.com/drive/folders/1HwdeMEwUXE5STWIoPePcuy5w5L_YJo-a?usp=sharing).
